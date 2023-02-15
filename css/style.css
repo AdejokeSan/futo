@@ -1,0 +1,9 @@
+.overlay-text{
+    z-index:1; 
+	font-size: 1.2em;
+	padding-top: -300px; 
+    color: red;
+}
+.img{
+    z-index: 0;
+}

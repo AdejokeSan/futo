@@ -1,0 +1,185 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+  body{
+    overflow-x: hidden;
+  }
+
+.btn{
+    width: 185px;
+    height: 57px;
+    background: #3C6255;
+    border-right: 1px solid #D0D5DD;
+    border-radius: 20px;
+    color: white;
+}
+.btn1{
+    width: 185px;
+    height: 57px;
+    background-color: #FFFFFF;
+    border-right: 3px solid #D0D5DD;
+    outline: none;
+    border-radius: 20px;
+    color: black;
+    
+    
+}
+.btn2{
+  background: #3C6255;
+  width: 130px;
+  height: 44px;
+  border-radius: 12px;
+  color: white;
+  border: none;
+}
+
+p.logotext{
+    font-family: 'Outfit', sans-serif;
+    margin-top: 17px;
+    margin-left: 15px;
+    font-size: 27px;
+    font-weight: bold;
+}
+.img{
+height: 40px;
+width: 40px;
+margin-top: 18px;
+}
+p.content{
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+text-align: center;
+color: #000000;
+}
+h1{
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 81px;
+text-align: center;
+color: #000000;
+}
+.card{
+border: none;
+}
+.name{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+color: #101828;
+}
+.role{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+color: #61876E;
+}
+.ptext{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #667085;
+}
+.rec{
+width: 280px;
+height: 308px;
+background: #A6BB8D;
+}
+.rec1{
+width: 280px;
+height: 308px;
+background: #EAE7B1;
+}
+.supporting-text{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-align: center;
+color: #373636;
+
+}
+.texth{
+font-family: 'Inter';
+ font-style: normal;
+ font-weight: 500;
+ font-size: 20px;
+ line-height: 30px;
+ color: #101828;
+}
+.suptext{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+color: #667085;
+}
+
+h6{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 20px;
+color: #98A2B3;
+}
+h5{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+color: #667085;
+
+}
+h3{
+font-family: 'Outfit';
+font-size: 20px;
+color: #000000;
+}
+.p{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #98A2B3;
+text-align: center;
+}
+.new{
+background-color: rgb(200, 248, 200);
+font-family: 'Outfit';
+width: 50px;
+height: 50px;
+border-radius:4px;
+}
+.col1{
+    align-items:center;
+     justify-content:center;
+}
+.row1{
+    margin-left: 40px;
+}
+@media(width:600px){
+    .col1{
+        align-items:center;
+        justify-content:center;
+    } 
+    .row1{
+       margin-left: 0px; 
+    }
+}
